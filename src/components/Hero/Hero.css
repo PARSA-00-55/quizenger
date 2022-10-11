@@ -1,0 +1,12 @@
+.logo{
+    color: #5D8BF4;
+    font-size: 4rem;
+}
+.hero-img{
+    height: 30vh;
+    object-fit:cover;
+    /* background-color: blue; */
+}
+.hero-img img{
+    height: 700px;
+}
