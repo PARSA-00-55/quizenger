@@ -1,0 +1,14 @@
+.card-body{
+    margin: 1rem 0;
+    padding: 1rem;
+    width: 20rem;
+    background-color: rgb(243, 243, 243);
+    overflow: hidden;
+}
+.card-img{
+    width: 18rem;
+    border-radius: 8px;
+}
+.card-btn{
+    text-decoration: none;
+}
