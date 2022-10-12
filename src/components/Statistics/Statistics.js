@@ -8,8 +8,8 @@ import {
   CartesianGrid,
   Tooltip,
   Legend,
-  ResponsiveContainer,
 } from "recharts";
+import Footer from "../Footer/Footer";
 
 const Statistics = () => {
 
